@@ -1,0 +1,26 @@
+#main{
+    width: 70%;
+    height: 200%;
+    background-image: url("assets/mainbg.jpg");
+
+}
+
+body{
+    background-color: gray;
+}
+
+
+#Lsidebar{
+width:24%;
+height:100%;
+}
+
+#Rsidebar{
+width:23%;
+height:100%;
+background-color: red;
+}
+
+img[src="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"]{
+    display:none!important;
+   }
